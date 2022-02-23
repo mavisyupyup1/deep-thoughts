@@ -24,7 +24,7 @@ const startServer =async()=>{
   server.applyMiddleware({app});
 
   //log where we can go to test out GQL API
-  console.log(`Use graphQL at https://localhost:${PORT}${server.graphqlPath}`)
+  console.log(`Use graphQL at http://localhost:${PORT}${server.graphqlPath}`)
 };
 
 //initialize the Apollo Server
