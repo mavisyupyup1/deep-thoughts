@@ -9,7 +9,7 @@ module.exports={
 
         if(req.headers.authorization){
             token=token
-            .split('')
+            .split(' ')
             .pop()
             .trim()
         }
