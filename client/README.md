@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Deep thoughts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Deep thought is a single page application (SPA) to publish thoughts, react to thoughts and befriend with others. This MERN application is powered by REACT.js, MongoDB, Graphql, Express.js and Node.js.
+
+## Built with
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Bcrypt
+* REACT.js
+* GraphQL
+## Installation 
+* clone the repo
+* Node.js framework and MONGO_DB is required to run the application
+* Use command ```npm install``` to install all dependencies
+* Use ```npm run develop``` to invoke the application to run on local host
 
 ## Available Scripts
 
